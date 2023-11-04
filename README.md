@@ -1,3 +1,3 @@
 # zomato-clone
 <br>
-Author- Anubhavi
+Author- Anubhav
